@@ -1,6 +1,6 @@
 # __
 
-#### Created By _**Christopher Neal**_
+#### Created By _**Colton Thatcher**_
 
 #### _An application to_
 
@@ -45,7 +45,7 @@ _None at this time_
 ## License
 
 _[MIT](https://opensource.org/licenses/MIT)_
-Copyright (c) _2021_ _Christopher Neal_
+Copyright (c) _2021_ _Colton Thatcher_
 
 ## Support and Contact Details
-* _[christopher.m.neal@gmail.com](mailto:christopher.m.neal@gmail.com)_
+* _[colt.thatcher303@gmail.com](colt.thatcher303@gmail.com)_
